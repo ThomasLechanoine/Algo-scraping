@@ -1,0 +1,29 @@
+# venv
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache files
+cache_html/
+
+# image
+*.png
+
+# logs
+*.log   
+
+# dotenv
+.env
+.env.*
+
+#Files 
+*.pdf
+*.html
+*.csv
+*.db
+*.json
+*.gexf
+*.graphml
